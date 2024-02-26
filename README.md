@@ -1,1 +1,1 @@
-# -nstagram-scriot
+# -instagram-scriot
