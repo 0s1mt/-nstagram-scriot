@@ -1,1 +1,1 @@
-# -instagram-scriot
+# -instagram-script
